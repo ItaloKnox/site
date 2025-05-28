@@ -1,0 +1,8 @@
+site_name: "Knox Music"
+theme:
+  name: shadcn
+  pygments_style: dracula # set by default
+  icon: heroicons:rocket-launch # use the shadcn svg by default
+markdown_extensions:
+  - admonition
+  - pymdownx.blocks.details
