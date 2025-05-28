@@ -5,11 +5,12 @@ order: 2
 
 Hello! My name is **Ítalo**. You might also know me as ItaloKnox, Radiata Alice or simply Knox.
 I've been a producer for almost 15 years, and a mix engineer for a little over half as long.
-My current work is mostly focused on Vtubers, but I'm open to any projects.
+Right now, I'm working towards shifting all of my work on mixing and producing vtubers.
+Since I'm passionate about music and vtubers, I feel like there's no better way than joining both things together.
 
 My mixes are known for their clear, present and spacious vocals, using my own developed technique over the years to minimize the use of compression and make sure your vocal stands out without feeling overcompressed.
 
-I'm incredibly passsionate about delivering a quality mix, and because of that, I'm very annoying over the quality of my client's recordings. If you love to sing, is not afraid of receiving feedback and going back for another take, I would love to work together.
+I'm incredibly passsionate about delivering a quality mix, and because of that, I'm very picky over the quality of my client's recordings. If you love to sing, and you are not afraid of receiving feedback and going back for another take, I would love to work together.
 
 ## About Radiata Alice
 
