@@ -3,6 +3,9 @@ title: Pricing
 order: 3
 ---
 
+!!! note "Looking for contact info?"
+    Click [here](contact.md)
+
 * Rates for a mix and master starts at $100. **A discount up to 50% off can be offered** based on availability, referral, budget or more. Don't be afraid of asking for a discount! I'm more than happy to give a discount if there's an opening.
     * Pricing can change based on the size and complexity of the commission. No surprises, everything is discussed beforehand.
 * **No hidden fees. Your mix includes tuning, harmonies and anything else you need at no extra charge.** Check the details in the section ["What should I know before commissioning a mix?"](guide.md)
