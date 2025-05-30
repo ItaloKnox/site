@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://italo.page/</loc>
+         <lastmod>2025-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://italo.page/about/</loc>
+         <lastmod>2025-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://italo.page/contact/</loc>
+         <lastmod>2025-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://italo.page/guide/</loc>
+         <lastmod>2025-05-30</lastmod>
+    </url>
+    <url>
+         <loc>https://italo.page/mixes/</loc>
+         <lastmod>2025-05-30</lastmod>
+    </url>
+    <url>
          <loc>https://italo.page/music/</loc>
          <lastmod>2025-05-30</lastmod>
     </url>
     <url>
-         <loc>https://italo.page/music/about/</loc>
-         <lastmod>2025-05-30</lastmod>
-    </url>
-    <url>
-         <loc>https://italo.page/music/contact/</loc>
-         <lastmod>2025-05-30</lastmod>
-    </url>
-    <url>
-         <loc>https://italo.page/music/guide/</loc>
-         <lastmod>2025-05-30</lastmod>
-    </url>
-    <url>
-         <loc>https://italo.page/music/mixes/</loc>
-         <lastmod>2025-05-30</lastmod>
-    </url>
-    <url>
-         <loc>https://italo.page/music/music/</loc>
-         <lastmod>2025-05-30</lastmod>
-    </url>
-    <url>
-         <loc>https://italo.page/music/pricing/</loc>
+         <loc>https://italo.page/pricing/</loc>
          <lastmod>2025-05-30</lastmod>
     </url>
 </urlset>

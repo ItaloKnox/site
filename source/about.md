@@ -1,7 +1,11 @@
+<!---
 ---
 title: About Me
 order: 2
 ---
+-->
+
+## Profile
 
 Hello! My name is **Ítalo**. You might also know me as ItaloKnox, Radiata Alice or simply Knox.
 I've been a producer for almost 15 years, and a mix engineer for a little over half as long.

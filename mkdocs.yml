@@ -1,12 +1,31 @@
 site_name: "Knox Music"
-site_url: "https://italo.page/music"
+site_url: "https://italo.page"
 
 docs_dir: source
 site_dir: mkdocs_build
 
 theme:
-  name: shadcn
-  pygments_style: "github-dark"
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - About me: about.md
+  - Pricing: pricing.md
+  - Contact: contact.md
+  - Mixes: mixes.md
+  - Music: music.md
+  - Information guide: guide.md
+
+  #pygments_style: "github-dark"
 
 markdown_extensions:
   - admonition

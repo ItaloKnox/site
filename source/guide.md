@@ -1,8 +1,12 @@
+<!---
 ---
 title: Information Guide
 summary: What should I know before commissioning a mix?
 order: 6
 ---
+-->
+
+# What should I know before commissioning a mix?
 
 ## For Vtubers:
 

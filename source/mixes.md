@@ -1,7 +1,11 @@
+<!---
 ---
 title: Mixes
 order: 4
 ---
+-->
+
+# Mixes
 
 !!! note "Note: click to expand the audio player"
 
