@@ -14,7 +14,7 @@ Since I'm passionate about music and vtubers, I feel like there's no better way 
 
 My mixes are known for their clear, present and spacious vocals, using my own developed technique over the years to minimize the use of compression and make sure your vocal stands out without feeling overcompressed.
 
-I'm incredibly passsionate about delivering a quality mix, and because of that, I'm very picky over the quality of my client's recordings. If you love to sing, and you are not afraid of receiving feedback and going back for another take, I would love to work together.
+I'm incredibly passionate about delivering a quality mix, and because of that, I'm very picky over the quality of my client's recordings. If you love to sing, and you are not afraid of receiving feedback and going back for another take, I would love to work together.
 
 ## About Radiata Alice
 
