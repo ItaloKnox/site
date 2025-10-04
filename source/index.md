@@ -8,6 +8,7 @@ order: 1
 # Home
 
 !!! note "Updates:"
+    **2025-10-04**: Added new mix, "I Look To You" under "full band mixes". Updated "神っぽいな", wasn't fully happy with the vocal tone.<br>
     **2025-09-20**: Updated "神っぽいな". Not as drastic of a change, but it should just be clearer overall. There were some reverb issues I only noticed after doing it over again.<br> 
     **2025-09-16**: Updated "Villain" and "Peace Sign". There were some very glaring issues with Villain that I didn't notice. Vocals and mastering for both songs were remade from scratch with a new chain.<br> 
     **2025-09-10**: Updated the mix for "ドゥードル". Complete overhaul of the song, less bright in general with more body.<br>
